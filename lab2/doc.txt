@@ -1,0 +1,676 @@
+    1  mkdir pyth
+    2  git init
+    3  git config --list --show-origin
+    4  git config --global user.name "Kamusheck"
+    5  git config --global user.email kismailova722@gmail.com
+    6  ssh-keygen -t rsa -b 4096 "kismailova722@gmail.com"
+    7  ssh-keygen -t rsa -b 4096 -C "kismailova722@gmail.com"
+    8  cd .ssh
+    9  vim .ssh
+   10  clear
+   11  ssh-key-gen
+   12  clear
+   13  ssh-keygen
+   14  cat /root/.ssh/id_rsa
+   15  cat .ssh/id_rsa
+   16  cd .ssh
+   17  cd root
+   18  cd ~/.ssh
+   19  ls ~/.ssh
+   20  ls -al ~/.ssh
+   21  cat ~/.ssh/id_rsa.pub
+   22  cat root/.ssh/id_rsa.pub
+   23  cat .ssh/id_rsa.pub
+   24  ssh-keygen -t ed25519 -c "kismailova722@gmail.com"
+   25  ssh-keygen -t ed25519 -C "kismailova722@gmail.com
+   26  ssh-keygen -t ed25519 -C "kismailova722@gmail.com"
+   27  44
+   28  ssh-keygen -t ed25519 -c "kismailova722@gmail.com"
+   29  kamen
+   30  kamen
+   31  clear
+   32  ssh-keygen -t rsa -b 4096 -C "kismailova722@gmail.com"
+   33  cat ~/.ssh/id_rsa.pub
+   34  clear
+   35  cat~//ssh/id_rsa/pub
+   36  ssh-keygen -t ed25519 -C "kismailova722@gmail.com
+   37  ssh-keygen -t ed25519 -C "kismailova722@gmail.com"
+   38  44
+   39  ssh-keygen -t ed25519 -c "kismailova722@gmail.com"
+   40  kamen
+   41  clear
+   42  ssh-keygen -t rsa -b 4096 -C "kismailova722@gmail.com"
+   43  cat ~/.ssh/id_rsa.pub
+   44  clear
+   45  cat./ssh/id_rsa/pub
+   46  ssh-keygen -t rsa
+   47  clear
+   48  ssh-keygen
+   49  ls ~/.ssh
+   50  ls ~/.ssh -la
+   51  cat ~/.ssh
+   52  rm ~/.ssh
+   53  ssh-keygen
+   54  ls ~/.ssh -la
+   55  shh-copy-id k_ismailova@185.5.249.140
+   56  ssh-copy-id k_ismailova@185.5.249.140
+   57  ssh 'k_ismailova@185.5.249.140'
+   58  git config 
+   59  git config --global
+   60  git status
+   61  git config -list-show-origin
+   62  git config -list -show-origin 
+   63  git config --list -show-origin 
+   64  git config --list-show-origin 
+   65  git config --list
+   66  clear
+   67  ssh-keygen -t rsa -b 4096 -C "kismailova722@gmail.com"
+   68  cd ~/.ssh/id_rsa
+   69  cd root/.ssh/id_rsa
+   70  cd /root/.ssh/id_rsa
+   71  cd /root/.ssh/id_rsa.pub
+   72  cd .ssh
+   73  cat id_rsa
+   74  cat id_rsa.pub
+   75  mkdir MAI_labs
+   76  git init
+   77  rm -r .git
+   78  rm -r MAI_labs
+   79  cd ..
+   80  cd MAI_labs
+   81  mkdir MAI_labs
+   82  cd MAI_labs
+   83  git init
+   84  mkdir lab1
+   85  rm -r lab1
+   86  git checkout -b "dev"
+   87  mkdir lab1
+   88  cd lab1
+   89  touch report.md
+   90  vim report.md
+   91  git merge dev
+   92  cd ..
+   93  cd lab1
+   94  vim report.md
+   95  cd..
+   96  cd ..
+   97  git commit -m "Add report.md"
+   98  add lab1
+   99  git add lab1
+  100  git commit -m "Add report.md"
+  101  git merge dev
+  102  git log --all --graph
+  103  git remote add origin git@github.com:Kamusheck/labinfo.git
+  104  git remote -v
+  105  mkdir MAI_labs
+  106  rm -r MAI_labs
+  107  mkdir MAI_labs
+  108  cd MAI_labs
+  109  git init
+  110  git branch stick
+  111  git checkout stick
+  112  git branch -a
+  113  git branch stick
+  114  git branch 'stick'
+  115  git branch <stick>
+  116  git branch -m <stick>
+  117  git branch -m stick
+  118  git branch -a
+  119  git branch -r
+  120  git branch -a
+  121  git checkout -b stick
+  122  mkdir l1
+  123  rm -r l1
+  124  mkdir lab1
+  125  cd lab1
+  126  touch report.md
+  127  vim report.md
+  128  cd ..
+  129  git add lab1
+  130  git commit -m "add report.md"
+  131  git checkout master
+  132  git checkout main
+  133  git checkout <main>
+  134  git checkout "main"
+  135  git checkout stick
+  136  git fetch
+  137  git checkout master
+  138  git checkout main
+  139  git branch -a
+  140  cd ..
+  141  rm -r MAI_labs
+  142  clear
+  143  mkdir MAI_labs
+  144  git init
+  145  rm -r MAI_labs
+  146  rm -r .git
+  147  clear
+  148  mdkri MAI_labs
+  149  clear
+  150  mkdir MAI_labs
+  151  cd MAI_labs
+  152  git init
+  153  git remote add origin git@github.com:Kamusheck/labinfo.git
+  154  git pull
+  155  git branch -a
+  156  git checkout -b dev
+  157  mkdir lab1
+  158  cd lab1
+  159  touch report.md
+  160  vim report.md
+  161  cd ..
+  162  git add lab1
+  163  git commit -m "add report.md"
+  164  git branch -a
+  165  git checkout main
+  166  git merge dev
+  167  git commit -m "init commit"
+  168  git branch -a
+  169  git merge dev
+  170  git fetch
+  171  git merge dev
+  172  git pull origin main --allow-unrelat ed-histories
+  173  git pull origin main --allow-unrelated-histories
+  174  git branch -a
+  175  git merge dev
+  176  git pull origin master 
+  177  git pull origin master --allow-unrelated-histories
+  178  git pull origin main --allow-unrelated-histories
+  179  git merge dev
+  180  gir checkout remotes/origin/main
+  181  git checkout remotes/origin/main
+  182  git branch -a
+  183  git merge dev
+  184  git checkout main
+  185  git merge branch_dev
+  186  git merge branch dev
+  187  git merge dev
+  188  git log --all --graph
+  189  git fetch
+  190  git merge dev
+  191  git log --all --graph
+  192  git pull
+  193  get pull origin <branch-dev>
+  194  get pull origin branch-dev
+  195  git pull origin branch-dev
+  196  git pull origin main --allow-unrelated-histories
+  197  git status
+  198  git merge dev
+  199  git push origin main
+  200  git checkout dev
+  201  git fetch
+  202  git checkout main
+  203  git merge dev
+  204  git checkout dev
+  205  git push origin dev
+  206  git checkout dev
+  207  git pull
+  208  git pull remote dev
+  209  git checkout main
+  210  git merge dev
+  211  git fetch origin
+  212  git merge dev
+  213  git branch
+  214  git checkout dev
+  215  git fetch origin
+  216  git checkout main
+  217  git merge dev
+  218  git pull origin main --allow-unrelated-histories
+  219  git branch -a
+  220  git checkout main
+  221  git merge dev
+  222  rm -r MAI_labs
+  223  cd ..
+  224  rm -r MAI_labs
+  225  clear
+  226  mkdir MAI_labs
+  227  cd MAI_labs
+  228  git init
+  229  git branch -a
+  230  git checkout main
+  231  git status
+  232  git checkout master
+  233  cd ..
+  234  rm -r MAI_labs
+  235  clear
+  236  mkdir MAI_lbas
+  237  rm -r MAI_lbas
+  238  clear
+  239  mkdir MAI_labs
+  240  cd MAI_labs
+  241  git init
+  242  git clone git@github.com:Kamusheck/labinfo.gitgit@github.com:Kamusheck/labinfo.git
+  243  git clone https://github.com/Kamusheck/labinfo
+  244  git checkout -b dev
+  245  git branch -a
+  246  cd ..
+  247  rm -r MAI_labs
+  248  clear
+  249  mkdir MAI_labs
+  250  git init
+  251  git pull git@github.com:Kamusheck/labinfo.git
+  252  git branch -a
+  253  git checkout -b dev
+  254  mkdir lab1
+  255  rm -r .git
+  256  clear
+  257  cd lab1
+  258  cd ..
+  259  rm -r lab1
+  260  clear
+  261  cd MAI_labs
+  262  git init
+  263  git pull git@github.com:Kamusheck/labinfo.git
+  264  git branch -a
+  265  git checkout -b dev
+  266  mkdir lab1
+  267  cd lab1
+  268  touch report.md
+  269  vim report.md
+  270  cd ..
+  271  git add lab1
+  272  git commit -m "add report.md"
+  273  git checkout main
+  274  git checkout master
+  275  git merge dev
+  276  git log --all --graph
+  277  git push origin master
+  278  git remote add origin git@github.com:Kamusheck/labinfo.git
+  279  git push origin master
+  280  root@LAPTOP-I8SU6MHL:~# cd MAI_labs
+  281  root@LAPTOP-I8SU6MHL:~/MAI_labs# git init
+  282  hint: Using 'master' as the name for the initial branch. This default branch name
+  283  hint: is subject to change. To configure the initial branch name to use in all
+  284  hint: of your new repositories, which will suppress this warning, call:
+  285  hint:
+  286  hint:   git config --global init.defaultBranch <name>
+  287  hint:
+  288  hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+  289  hint: 'development'. The just-created branch can be renamed via this command:
+  290  hint:
+  291  hint:   git branch -m <name>
+  292  Initialized empty Git repository in /root/MAI_labs/.git/
+  293  root@LAPTOP-I8SU6MHL:~/MAI_labs# git pull git@github.com:Kamusheck/labinfo.git
+  294  remote: Enumerating objects: 3, done.
+  295  remote: Counting objects: 100% (3/3), done.
+  296  remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+  297  Unpacking objects: 100% (3/3), 590 bytes | 147.00 KiB/s, done.
+  298  From github.com:Kamusheck/labinfo
+  299  root@LAPTOP-I8SU6MHL:~/MAI_labs# git branch -a
+  300  * master
+  301  root@LAPTOP-I8SU6MHL:~/MAI_labs# git checkout -b dev
+  302  Switched to a new branch 'dev'
+  303  root@LAPTOP-I8SU6MHL:~/MAI_labs# mkdir lab1
+  304  root@LAPTOP-I8SU6MHL:~/MAI_labs# cd lab1
+  305  root@LAPTOP-I8SU6MHL:~/MAI_labs/lab1# touch report.md
+  306  root@LAPTOP-I8SU6MHL:~/MAI_labs/lab1# vim report.md
+  307  root@LAPTOP-I8SU6MHL:~/MAI_labs/lab1# cd ..
+  308  root@LAPTOP-I8SU6MHL:~/MAI_labs# git add lab1
+  309  root@LAPTOP-I8SU6MHL:~/MAI_labs# git commit -m "add report.md"
+  310  [dev 76433af] add report.md
+  311  root@LAPTOP-I8SU6MHL:~/MAI_labs# git checkout main
+  312  error: pathspec 'main' did not match any file(s) known to git
+  313  root@LAPTOP-I8SU6MHL:~/MAI_labs# git checkout master
+  314  Switched to branch 'master'
+  315  root@LAPTOP-I8SU6MHL:~/MAI_labs# git merge dev
+  316  Updating 679dc18..76433af
+  317  Fast-forward
+  318  root@LAPTOP-I8SU6MHL:~/MAI_labs# git log --all --graph
+  319  * commit 76433af0117a6799f1a703a17e3ebcedafe16381 (HEAD -> master, dev)
+  320  | Author: Kamusheck <kismailova722@gmail.com>
+  321  | Date:   Mon Sep 18 15:40:29 2023 +0300
+  322  |
+  323  |     add report.md
+  324  |
+  325  * commit 679dc1872dd1cb0892100d4fd2c503a5adc98684
+  326  root@LAPTOP-I8SU6MHL:~/MAI_labs# git push origin master
+  327  fatal: 'origin' does not appear to be a git repository
+  328  fatal: Could not read from remote repository.
+  329  Please make sure you have the correct access rights
+  330  and the repository exists.
+  331  root@LAPTOP-I8SU6MHL:~/MAI_labs# git remote add origin git@github.com:Kamusheck/labinfo.git
+  332  root@LAPTOP-I8SU6MHL:~/MAI_labs# git push origin master
+  333  Enumerating objects: 5, done.
+  334  Counting objects: 100% (5/5), done.
+  335  Delta compression using up to 4 threads
+  336  Compressing objects: 100% (3/3), done.
+  337  Writing objects: 100% (4/4), 2.02 KiB | 516.00 KiB/s, done.
+  338  Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+  339  remote:
+  340  remote: Create a pull request for 'master' on GitHub by visiting:
+  341  remote:      https://github.com/Kamusheck/labinfo/pull/new/master
+  342  remote:
+  343  To github.com:Kamusheck/labinfo.git
+  344  root@LAPTOP-I8SU6MHL:~/MAI_labs#root@LAPTOP-I8SU6MHL:~# cd MAI_labs
+  345  root@LAPTOP-I8SU6MHL:~/MAI_labs# git init
+  346  hint: Using 'master' as the name for the initial branch. This default branch name
+  347  hint: is subject to change. To configure the initial branch name to use in all
+  348  hint: of your new repositories, which will suppress this warning, call:
+  349  hint:
+  350  hint:   git config --global init.defaultBranch <name>
+  351  hint:
+  352  hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+  353  hint: 'development'. The just-created branch can be renamed via this command:
+  354  hint:
+  355  hint:   git branch -m <name>
+  356  Initialized empty Git repository in /root/MAI_labs/.git/
+  357  root@LAPTOP-I8SU6MHL:~/MAI_labs# git pull git@github.com:Kamusheck/labinfo.git
+  358  remote: Enumerating objects: 3, done.
+  359  remote: Counting objects: 100% (3/3), done.
+  360  remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+  361  Unpacking objects: 100% (3/3), 590 bytes | 147.00 KiB/s, done.
+  362  From github.com:Kamusheck/labinfo
+  363  root@LAPTOP-I8SU6MHL:~/MAI_labs# git branch -a
+  364  * master
+  365  root@LAPTOP-I8SU6MHL:~/MAI_labs# git checkout -b dev
+  366  Switched to a new branch 'dev'
+  367  root@LAPTOP-I8SU6MHL:~/MAI_labs# mkdir lab1
+  368  root@LAPTOP-I8SU6MHL:~/MAI_labs# cd lab1
+  369  root@LAPTOP-I8SU6MHL:~/MAI_labs/lab1# touch report.md
+  370  root@LAPTOP-I8SU6MHL:~/MAI_labs/lab1# vim report.md
+  371  root@LAPTOP-I8SU6MHL:~/MAI_labs/lab1# cd ..
+  372  root@LAPTOP-I8SU6MHL:~/MAI_labs# git add lab1
+  373  root@LAPTOP-I8SU6MHL:~/MAI_labs# git commit -m "add report.md"
+  374  [dev 76433af] add report.md
+  375  root@LAPTOP-I8SU6MHL:~/MAI_labs# git checkout main
+  376  error: pathspec 'main' did not match any file(s) known to git
+  377  root@LAPTOP-I8SU6MHL:~/MAI_labs# git checkout master
+  378  Switched to branch 'master'
+  379  root@LAPTOP-I8SU6MHL:~/MAI_labs# git merge dev
+  380  Updating 679dc18..76433af
+  381  Fast-forward
+  382  root@LAPTOP-I8SU6MHL:~/MAI_labs# git log --all --graph
+  383  * commit 76433af0117a6799f1a703a17e3ebcedafe16381 (HEAD -> master, dev)
+  384  | Author: Kamusheck <kismailova722@gmail.com>
+  385  | Date:   Mon Sep 18 15:40:29 2023 +0300
+  386  |
+  387  |     add report.md
+  388  |
+  389  * commit 679dc1872dd1cb0892100d4fd2c503a5adc98684
+  390  root@LAPTOP-I8SU6MHL:~/MAI_labs# git push origin master
+  391  fatal: 'origin' does not appear to be a git repository
+  392  fatal: Could not read from remote repository.
+  393  Please make sure you have the correct access rights
+  394  and the repository exists.
+  395  root@LAPTOP-I8SU6MHL:~/MAI_labs# git remote add origin git@github.com:Kamusheck/labinfo.git
+  396  root@LAPTOP-I8SU6MHL:~/MAI_labs# git push origin master
+  397  Enumerating objects: 5, done.
+  398  Counting objects: 100% (5/5), done.
+  399  Delta compression using up to 4 threads
+  400  Compressing objects: 100% (3/3), done.
+  401  Writing objects: 100% (4/4), 2.02 KiB | 516.00 KiB/s, done.
+  402  Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+  403  remote:
+  404  remote: Create a pull request for 'master' on GitHub by visiting:
+  405  remote:      https://github.com/Kamusheck/labinfo/pull/new/master
+  406  remote:
+  407  To github.com:Kamusheck/labinfo.git
+  408  root@LAPTOP-I8SU6MHL:~/MAI_labs#root@LAPTOP-I8SU6MHL:~# cd MAI_labs
+  409  root@LAPTOP-I8SU6MHL:~/MAI_labs# git init
+  410  hint: Using 'master' as the name for the initial branch. This default branch name
+  411  hint: is subject to change. To configure the initial branch name to use in all
+  412  hint: of your new repositories, which will suppress this warning, call:
+  413  hint:
+  414  hint:   git config --global init.defaultBranch <name>
+  415  hint:
+  416  hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+  417  hint: 'development'. The just-created branch can be renamed via this command:
+  418  hint:
+  419  hint:   git branch -m <name>
+  420  Initialized empty Git repository in /root/MAI_labs/.git/
+  421  root@LAPTOP-I8SU6MHL:~/MAI_labs# git pull git@github.com:Kamusheck/labinfo.git
+  422  remote: Enumerating objects: 3, done.
+  423  remote: Counting objects: 100% (3/3), done.
+  424  remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+  425  Unpacking objects: 100% (3/3), 590 bytes | 147.00 KiB/s, done.
+  426  From github.com:Kamusheck/labinfo
+  427  root@LAPTOP-I8SU6MHL:~/MAI_labs# git branch -a
+  428  * master
+  429  root@LAPTOP-I8SU6MHL:~/MAI_labs# git checkout -b dev
+  430  Switched to a new branch 'dev'
+  431  root@LAPTOP-I8SU6MHL:~/MAI_labs# mkdir lab1
+  432  root@LAPTOP-I8SU6MHL:~/MAI_labs# cd lab1
+  433  root@LAPTOP-I8SU6MHL:~/MAI_labs/lab1# touch report.md
+  434  root@LAPTOP-I8SU6MHL:~/MAI_labs/lab1# vim report.md
+  435  root@LAPTOP-I8SU6MHL:~/MAI_labs/lab1# cd ..
+  436  root@LAPTOP-I8SU6MHL:~/MAI_labs# git add lab1
+  437  root@LAPTOP-I8SU6MHL:~/MAI_labs# git commit -m "add report.md"
+  438  [dev 76433af] add report.md
+  439  root@LAPTOP-I8SU6MHL:~/MAI_labs# git checkout main
+  440  error: pathspec 'main' did not match any file(s) known to git
+  441  root@LAPTOP-I8SU6MHL:~/MAI_labs# git checkout master
+  442  Switched to branch 'master'
+  443  root@LAPTOP-I8SU6MHL:~/MAI_labs# git merge dev
+  444  Updating 679dc18..76433af
+  445  Fast-forward
+  446  root@LAPTOP-I8SU6MHL:~/MAI_labs# git log --all --graph
+  447  * commit 76433af0117a6799f1a703a17e3ebcedafe16381 (HEAD -> master, dev)
+  448  | Author: Kamusheck <kismailova722@gmail.com>
+  449  | Date:   Mon Sep 18 15:40:29 2023 +0300
+  450  |
+  451  |     add report.md
+  452  |
+  453  * commit 679dc1872dd1cb0892100d4fd2c503a5adc98684
+  454  root@LAPTOP-I8SU6MHL:~/MAI_labs# git push origin master
+  455  fatal: 'origin' does not appear to be a git repository
+  456  fatal: Could not read from remote repository.
+  457  Please make sure you have the correct access rights
+  458  and the repository exists.
+  459  root@LAPTOP-I8SU6MHL:~/MAI_labs# git remote add origin git@github.com:Kamusheck/labinfo.git
+  460  root@LAPTOP-I8SU6MHL:~/MAI_labs# git push origin master
+  461  Enumerating objects: 5, done.
+  462  Counting objects: 100% (5/5), done.
+  463  Delta compression using up to 4 threads
+  464  Compressing objects: 100% (3/3), done.
+  465  Writing objects: 100% (4/4), 2.02 KiB | 516.00 KiB/s, done.
+  466  Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+  467  remote:
+  468  remote: Create a pull request for 'master' on GitHub by visiting:
+  469  remote:      https://github.com/Kamusheck/labinfo/pull/new/master
+  470  remote:
+  471  To github.com:Kamusheck/labinfo.git
+  472  cd MAI_labs
+  473  git init
+  474  git pull git@github.com:Kamusheck/labinfo.git
+  475  git checkout -b stick
+  476  mkdir lab1
+  477  mkdir lab2
+  478  clean
+  479  rmdir lab2
+  480  clear
+  481  who
+  482  clean
+  483  clear
+  484  who
+  485  ssh
+  486  clear
+  487  cd MAI_labs
+  488  who
+  489  whwho
+  490  who
+  491  cd MAi_labs
+  492  cd MAI_labs
+  493  who
+  494  whoami
+  495  useradd kamen
+  496  who
+  497  whoami
+  498  suddo adduser kamen
+  499  sudo adduser kamen
+  500  who
+  501  whoami
+  502  sudo usermod -aG sudo kamen
+  503  who
+  504  whoami
+  505  sudo adduser kamen
+  506  su testyser
+  507  su testuser
+  508  su testkamen
+  509  w
+  510  sudo ps -u timeweb
+  511  pgrep-u losst
+  512  pgrep -u losst
+  513  clear
+  514  useradd _g stud stud
+  515  pgrep -u losst
+  516  kamen
+  517  clear
+  518  who
+  519  whoami
+  520  $cat/etc/passwd
+  521  who
+  522  ssh 'k_ismailova@185.5.249.140'
+  523  ssh-keygen
+  524  ssh 'k_ismailova@185.5249.10'
+  525  ssh 'k_ismailova@185.5249.140'
+  526  ssh 'k_ismailova@185.5.249.140'
+  527  Kamen
+  528  kamen
+  529  ssh 'k_ismailova@185.5.249.140'
+  530  qy4A7oHvXTOrY
+  531  ssh 'k_ismailova@185.5.249.140'
+  532  usermod -l new_username old_userna
+  533  usermod -l new_username old_username
+  534  usermod -l kamen tip
+  535  usermod -l tip  
+  536  sudo pkill -u  
+  537  who
+  538  whoami
+  539  sodo usermod -u tip  
+  540  sudo usermod -u tip  
+  541  sudo usermod -u karen  
+  542  sudo usermod -u karen kamen
+  543  sudo usermod -u 109  
+  544  kamen
+  545  usermod -l laila kamen
+  546  who
+  547  whoiam
+  548  whoami
+  549  sudo adduser tempuser
+  550  who
+  551  whoami
+  552  Y
+  553  n
+  554  sudo adduser tempuser
+  555  sudo passwd tempuser
+  556  sudj usermod -aG wheel tempuser
+  557  sudo usermod -aG wheel tempuser
+  558  sudo usermod -aG sudo tempuser
+  559  sudo usermod  -l kamusheck -d /home/newusername  -m  
+  560  sudo usermod  -l kamusheck -d /home/newusername  -m  kamen
+  561  sudo usermod  -l kamusheck -d /home/newusername  -m
+  562  kill PID
+  563  who
+  564  whoami
+  565  clear
+  566  who
+  567  whoami
+  568  pwd
+  569  ls
+  570  cd
+  571  mv
+  572  rm
+  573  cat
+  574  ps
+  575  tail
+  576  grep tail
+  577  clear
+  578  cd MAI_labs
+  579  git init
+  580  git pull git@github.com:Kamusheck/labinfo.git
+  581  rm
+  582  rm 
+  583  rm lab2
+  584  clear
+  585  cd labinfo
+  586  cd MAI_labs
+  587  git@github.com: Permission denied (publickey).
+  588  fatal: Could not read from remote repository.
+  589  Please make sure you have the correct access rights
+  590  and the repository exists.git@github.com: Permission denied (publickey).
+  591  fatal: Could not read from remote repository.
+  592  Please make sure you have the correct access rights
+  593  and the repository exists.
+  594  git@github.com: Permission denied (publickey).
+  595  fatal: Could not read from remote repository.
+  596  Please make sure you have the correct access rights
+  597  and the repository exists.git pull git@github.com:Kamusheck/labinfo
+  598  git pull git@github.com:Kamusheck/labinfo.git
+  599  ssh-keygen
+  600  cat id_rsa.pub
+  601  ls -al ~/.ssh
+  602  cat ~/.ssh/id_ed25519_github.pub
+  603  ssh-keygen -t ed25519 -C "kismailova722@gmail.com"
+  604  eval "$(ssh-agent -s)'
+  605  y
+  606  hktum
+  607  rm
+  608  eval "$(shh-agent -s)"
+  609  eval "$(ssh-agent -s)"
+  610  ssh-add ~/,ssh/id_ed25519_github
+  611  ssh-add ~/.ssh/id_pid 61_github
+  612  ssh-add ~/.ssh/id_ed25519_github
+  613  ssh-add ~/.ssh/id_pid 61_github
+  614  ssh-add ~/.ssh/id_pid 1243_github
+  615  git pull git@github.com:Kamusheck/labinfo.git
+  616  ssh-keygen -t ed25519 -C "kismailova722@gmail.com"
+  617  # start the ssh-agent in the background
+  618  ssh-add ~/.ssh/id_ed25519
+  619  $ eval "$(ssh-agent -s)"
+  620  start the ssh-agent in the background
+  621  eval "$(ssh-agent -s)"
+  622  ssh-add ~/.ssh/SHA256:Ah7fZbH9qyogUpOt00sPL1O2hv2yiv6Yb4up99fyE3E
+  623  git clone git@github.com:Kamusheck/labinfo.git
+  624  git clone git@github.com:Kamusheck/labinfo
+  625  cd ~/.ssh
+  626  ls
+  627  ssh-add ~/.ssh/SHA256:Ah7fZbH9qyogUpOt00sPL1O2hv2yiv6Yb4up99fyE3E kismailova722@gmail.com
+  628  SHA256:Ah7fZbH9qyogUpOt00sPL1O2hv2yiv6Yb4up99fyE3E kismailova722@gmail.com
+  629  kill
+  630  $ cat~/.ssh/id_rsa/pub
+  631  ssh-add ~/.ssh/SHA256:Ah7fZbH9qyogUpOt00sPL1O2hv2yiv6Yb4up99fyE3E kismailova722@gmail.com
+  632  ssh-add ~/.ssh/SHA256:Ah7fZbH9qyogUpOt00sPL1O2hv2yiv6Yb4up99fyE3E kismailova722@gmail.com==
+  633  $ ls -al ~/.ssh
+  634  ssh-agent sh -c 'ssh-add; ssh-add -L'
+  635  cat ~/.ssh/id_rsa.pub
+  636  clear
+  637  cd MAI_labs
+  638  who
+  639  whoami
+  640  type -a pwd
+  641  pwd
+  642  pwd--help
+  643  pwd --help
+  644  pwd ==versioun
+  645  ls
+  646  ls -a
+  647  ls -d
+  648  git checkout -b stick
+  649  git branch --delete stick
+  650  mkdir noneed
+  651  rmdir noneed
+  652  mkdir lab2
+  653  touch what.txt
+  654  echo pancakes
+  655  echo i am tired...so tired
+  656  mv what.txt something/txt
+  657  ls
+  658  mv something.txt lab2
+  659  ls
+  660  rm something.txt
+  661  cd lab2
+  662  rm something.txt
+  663  touch thing.txt
+  664  vim thing.txt
+  665  cat thing.txt
+  666  cat -n thing.txt
+  667  vim thing.txt
+  668  ps
+  669  head thing.txt
+  670  tail thing.tx -n6
+  671  tail thing.txt -n6
+  672  grep o -n thing.txt
+  673  history | grep.head
+  674  history | grep head
+  675  history | grep o
+  676  history > doc.txt
